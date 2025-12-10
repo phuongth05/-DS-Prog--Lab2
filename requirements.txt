@@ -2,4 +2,3 @@ numpy==2.2.3
 matplotlib
 seaborn
 ipykernel
-csv
