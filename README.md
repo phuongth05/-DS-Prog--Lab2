@@ -6,16 +6,16 @@
 
 ## Mục lục
 
-1.  [Giới thiệu](https://www.google.com/search?q=%23gi%E1%BB%9Bi-thi%E1%BB%87u)
-2.  [Dataset](https://www.google.com/search?q=%23dataset)
-3.  [Cấu trúc dự án](https://www.google.com/search?q=%23c%E1%BA%A5u-tr%C3%BAc-d%E1%BB%B1-%C3%A1n)
-4.  [Phương pháp thực hiện](https://www.google.com/search?q=%23ph%C6%B0%C6%A1ng-ph%C3%A1p-th%E1%BB%B1c-hi%E1%BB%87n)
-5.  [Cài đặt và Hướng dẫn sử dụng](https://www.google.com/search?q=%23c%C3%A0i-%C4%91%E1%BA%B7t-v%C3%A0-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng)
-6.  [Kết quả](https://www.google.com/search?q=%23k%E1%BA%BFt-qu%E1%BA%A3)
-7.  [Khó khăn và Giải pháp](https://www.google.com/search?q=%23kh%C3%B3-kh%C4%83n-v%C3%A0-gi%E1%BA%A3i-ph%C3%A1p)
-8.  [Hướng phát triển](https://www.google.com/search?q=%23h%C6%B0%E1%BB%9Bng-ph%C3%A1t-tri%E1%BB%83n)
-9.  [Thông tin tác giả Dataset](https://www.google.com/search?q=%23th%C3%B4ng-tin-t%C3%A1c-gi%E1%BA%A3-dataset)
-10. [Thông tin liên hệ](https://www.google.com/search?q=%23th%C3%B4ng-tin-li%C3%AAn-h%E1%BB%87)
+1.  [Giới thiệu](#giới-thiệu)
+2.  [Dataset](#dataset)
+3.  [Cấu trúc dự án](#cấu-trúc-dự-án)
+4.  [Phương pháp thực hiện](#phương-pháp-thực-hiện)
+5.  [Cài đặt và Hướng dẫn sử dụng](#cài-đặt-và-hướng-dẫn-sử-dụng)
+6.  [Kết quả](#kết-quả)
+7.  [Khó khăn và Giải pháp](#khó-khăn-và-giải-pháp)
+8.  [Hướng phát triển](#hướng-phát-triển)
+9.  [Thông tin tác giả Dataset](#thông-tin-tác-giả-dataset)
+10. [Thông tin liên hệ](#thông-tin-liên-hệ)
 
 -----
 
@@ -113,7 +113,7 @@ Tôi tự cài đặt hai lớp mô hình hồi quy tuyến tính có điều ch
 ## Cài đặt và Hướng dẫn sử dụng
 
 1.  **Cài đặt thư viện:**
-    Dự án yêu cầu Python 3.x và các thư viện cơ bản liệt kê trong `requirements.txt`.
+    Bài tập được làm trên Python 3.13.2 và các thư viện cơ bản liệt kê trong `requirements.txt`.
 
     ```bash
     pip install -r requirements.txt
@@ -165,5 +165,7 @@ Trong quá trình thực hiện bài tập với ràng buộc chỉ dùng NumPy,
   - **License:** CC0: Public Domain.
 
 ## Thông tin liên hệ
+  - Github: [phuongth05](https://github.com/phuongth05)
+  - email: thphuong23@clc.fitus.edu.vn
 
 Trần Hồng Phương - lữ khách giang hồ, nay đây mai đó.
